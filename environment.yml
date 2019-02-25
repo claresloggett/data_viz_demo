@@ -1,0 +1,16 @@
+name: visualisation-env 
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyter
+  - notebook
+  - jupyterlab
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
+  - altair
+  - vega
+  - vega_datasets
