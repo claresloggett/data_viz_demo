@@ -1,7 +1,7 @@
 Data tidying and visualisation demo
 ===================================
 
-Notebooks and data used in COMP90059 lecture.
+Notebooks and data used in tidy data / viz lecture.
 
 To launch Binder:
 
